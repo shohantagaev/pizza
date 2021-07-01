@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: wheat;
+    text-align: center;
+    font-size: 25px;
+}
+
+p{
+    color: wheat;
+    text-align: center;
+    font-size: 25px;
+}
